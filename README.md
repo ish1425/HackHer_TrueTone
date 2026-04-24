@@ -89,13 +89,6 @@ The API will start on:
 http://127.0.0.1:8000
 ```
 
-## Frontend Demo
-
-The demo UI lives here:
-
-- [frontend/templates/iphone_call_simulator.html](/c:/Users/DELL/Desktop/Hackher-fraud/HackHer_TrueTone-1/frontend/templates/iphone_call_simulator.html)
-
-You can open that file directly in a browser for a static frontend demo, as long as the backend is running on `http://127.0.0.1:8000`.
 
 ## API Endpoints
 
